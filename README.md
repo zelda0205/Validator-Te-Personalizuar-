@@ -1,1 +1,1 @@
-# DetyreKursi2
+# Detyre Kursi ne .NET MVC 
